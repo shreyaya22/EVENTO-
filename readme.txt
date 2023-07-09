@@ -1,5 +1,7 @@
 Project: Event Management System by group:nimbus2000
 
+team project :NIMBUS2000
+
 Installation guide:
 
 Download the source code and extract the zip file.
